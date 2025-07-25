@@ -34,9 +34,6 @@ July 24th., 2025
 9. [Results](#results)
    - [LSTM Performance Metrics](#lstm-performance-metrics)
    - [Fine-Tuned LLM Outputs](#fine-tuned-llm-outputs)
-10. [Limitations and Future Work](#limitations-and-future-work)
-11. [References](#references)
-
 
 
 
